@@ -1,0 +1,8 @@
+Emergency at 2026-04-13 22:13:40.691809 | Location: 📍 Bangalore, India (Demo Location)
+Emergency at 2026-04-13 22:22:12.533029 | Location: Bangalore
+Emergency at 2026-04-13 22:22:30.794101 | Location: Bangalore
+Emergency at 2026-04-13 22:24:46.174148 | Location: Bangalore
+Emergency at 2026-04-13 22:26:24.304623 | Location: Bangalore
+Emergency at 2026-04-13 22:26:37.854739 | Location: Bangalore
+Emergency at 2026-04-13 22:28:18.341693 | Location: Bangalore
+Emergency at 2026-04-13 22:28:21.621462 | Location: Bangalore
